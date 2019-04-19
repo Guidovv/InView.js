@@ -11,7 +11,7 @@ https://repl.it/@Guidovv1997/inView-plugin
 	- items: (nodelist)<br>
 	- classname: (string)(default: 'in-view')<br>
 	- event_callback: (bool)(default: false)<br>
-  - timeout: (int)(default: 100) // Timeout between each item when adding the classname / triggering the callback event
+	- timeout: (int)(default: 100) // Timeout between each item when adding the classname / triggering the callback event
 
 **Example:**<br>
 inView({
