@@ -3,7 +3,7 @@
 Keeps track of any given item(s) and adds a classname when it enters the viewport.
 Optionally an event can be triggerd at the same time to execute your own stuff.
 
-**Demo**
+**Demo:**<br>
 https://repl.it/@Guidovv1997/inView-plugin
 
 
