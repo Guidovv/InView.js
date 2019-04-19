@@ -14,6 +14,6 @@ https://repl.it/@Guidovv1997/inView-plugin
 	- timeout: (int)(default: 100) // Timeout between each item when adding the classname / triggering the callback event
 
 **Example:**<br>
-inView({
-&nbsp;&nbsp;&nbsp;&nbsp;items: document.querySelectorAll('.item'),
+inView({<br>
+&nbsp;&nbsp;&nbsp;&nbsp;items: document.querySelectorAll('.item')<br>
 });
