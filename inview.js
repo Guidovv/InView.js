@@ -58,7 +58,7 @@ var inView = (function(user_options) {
 			el.classList.add( options.classname );
 
 			// Dispatch custom event if enabled
-			if ( !options.event_callback ) {
+			if (options.event_callback) {
 				dispatchCustomEvent(el);
 			}
 		}, options.timeout * multiply_by);
